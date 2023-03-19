@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11a1cd3e03feb3f4fa76dcecf91aca32, type: 3}
+  m_Name: CatDialogStart
+  m_EditorClassIdentifier: 
+  npcText: "\u041F\u0440\u0438\u0432\u0435\u0442, \u043F\u0443\u0442\u043D\u0438\u043A!"
+  playerAnswers:
+  - {fileID: 11400000, guid: 622ba97176177f84195aa52bb3fb2200, type: 2}
+  - {fileID: 11400000, guid: a44b86b672cc5d94e9992bdb153d32cc, type: 2}
+  - {fileID: 11400000, guid: 3eec0987f0d51bc44a9c6dbac8be8475, type: 2}
+  - {fileID: 11400000, guid: b034eb336b79d9641acc0e5cd9035b0b, type: 2}
+  dialogType: Start

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee275c9e1307d744782526883643b10e, type: 3}
+  m_Name: Bloodstone
+  m_EditorClassIdentifier: 
+  itemName: "\u041A\u0440\u043E\u0432\u044C \u043A\u0430\u043C\u043D\u044F"
+  icon: {fileID: 1059669440, guid: 1beece0057176004d9fbae21faaf49f9, type: 3}
+  iconUI: {fileID: 1059669440, guid: 1beece0057176004d9fbae21faaf49f9, type: 3}
+  material: {fileID: 2100000, guid: 85af035e3b4c9df4689a5c037875698d, type: 2}
+  isStackable: 0
+  artefactType: "\u0413\u0440\u0430\u0432\u0438\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0439"

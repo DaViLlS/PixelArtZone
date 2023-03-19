@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: AnimGrass23
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 62734414, guid: cfd604635cd1b6b4683c299750ac686f, type: 3}
+  - {fileID: 72846974, guid: cfd604635cd1b6b4683c299750ac686f, type: 3}
+  - {fileID: 30082710, guid: cfd604635cd1b6b4683c299750ac686f, type: 3}
+  - {fileID: 1287156625, guid: cfd604635cd1b6b4683c299750ac686f, type: 3}
+  - {fileID: 1308437759, guid: cfd604635cd1b6b4683c299750ac686f, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

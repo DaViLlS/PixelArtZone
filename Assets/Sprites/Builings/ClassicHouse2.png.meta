@@ -1,0 +1,3029 @@
+fileFormatVersion: 2
+guid: da2f95442619bbd409fee5549c5e96f5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClassicHouse2_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c681798ce288c1741a9103363995e818
+      internalID: -723224804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2894a623aa367442873470935344c06
+      internalID: -1185447885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e90460183928624aa3b493f5062390a
+      internalID: -131871956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39e1597f885f004d93a7ad16f7f905e
+      internalID: -1078451836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227bcb22a7952374ead590daaf368908
+      internalID: 689147756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6588baeecf0ef4e95608f8cda0ce19
+      internalID: 922456835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dfaf07830e537499a2b2edda541d2f
+      internalID: -1812348583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99a3692a33771844b7547bbcc88b343
+      internalID: -1402718853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664ad1b77a407f549b0d623bce0dd32d
+      internalID: -1199634768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245399288c059ca4dad45f018bf67357
+      internalID: 1882639139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff702a2325c146842a548e5897d4211a
+      internalID: -187223878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c0f2ea8608b2145892e8230da3d7bf
+      internalID: 154325842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286c5252f3147084a89264f2e581caaf
+      internalID: 1546244529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7db8f257ecfb642b4a47b0da842fe2
+      internalID: -2079699321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38f7bd290e01634db3f328f355d9a8b
+      internalID: -555223334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78447114432a46940ad52c359416fb1e
+      internalID: 1462852718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76833dbfae8b12c4eadcd4ea9b1ac92a
+      internalID: -1756358226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056d2b307f7acb2479a811e3f0e352a5
+      internalID: 1671431603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978d154ca353bd143a141d96450ddb9f
+      internalID: -1750246620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f301b3f74e9ff0f4ea4f58e0235bdb67
+      internalID: 379734067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b02df4a6154eee44afd62d7a7928c96
+      internalID: 297642832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17c7fc71bd664f4a9ef9a94c73dcfdb
+      internalID: 341451766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca0995a1c6c4d44590aed9f3feb79e8
+      internalID: -884310419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d679bec2f8fdef49ac56cbd60e072c8
+      internalID: 2122635452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf84515504841b345b15590662a91801
+      internalID: -993198541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc81aab2bffa9fd4c9512612411e7fc4
+      internalID: -803331124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f41afbfbd08884c88d2cc8ecf4caf4
+      internalID: 1189469630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c70b752110b18409c355409304d2ee
+      internalID: -287413873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077b7a4f645a94544ad5b27e4b293c81
+      internalID: 1226560422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ac270157e1d984293655744ac271dc
+      internalID: 1166024349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b912dd97248886e468f963aba2d4db16
+      internalID: 1077720025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94560840ba1ebf340a2b632b6fbe115a
+      internalID: 305171608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41566ad4181230240a2871edb0e3fbbe
+      internalID: 1994784742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34896582c85f635458d405b63f3163ea
+      internalID: 138605969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db75f6f47d4b6e14389a2a354fc9b9c1
+      internalID: 1845948677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e93f759c2329d479f160c6649fe7b8
+      internalID: 1182552176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b47db9213af5e44b2805bb43b7b8bd
+      internalID: -943828682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b780a15b2083c84f9322dd401fa7290
+      internalID: 1323983463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf7b19dafe0c3f4fa29af47b5dbc1cd
+      internalID: -1776513284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1236fff4f50a2f7429891cfc84dd8d17
+      internalID: -390232272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d11de9a81da1340924a4e523704898
+      internalID: 900476060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd788dd9815438f4aa9c9eca33163133
+      internalID: -990253080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87460913330f1d541b37012c2db4c57b
+      internalID: 685262420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbc5eff774f150488844fda3425280c
+      internalID: 715928279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e49bc009cc66b4fb133dc8108119e5
+      internalID: 652704515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_45
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af325ce41a1f3064a89a6b91d8304a8f
+      internalID: -185877804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d60877f5f5cf0e479cc99f7ddb62b80
+      internalID: -648083782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6038b0991cf98214c8a01646f865ac2c
+      internalID: -1271371252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ca73d5262cda344a780d22467b755b
+      internalID: -2089953211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0864dba56052e3845918389c54476b37
+      internalID: 601637466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1790114ef16272948957d48111d3704b
+      internalID: -907211093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 673
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4862a1965c354340bbcd45da50a8cd5
+      internalID: -200244726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 657
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c9040fa2518c44eb14a19402b44363
+      internalID: -2059893355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 657
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35f1556671dae74ca0b968b3b12aa08
+      internalID: -1774738037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 657
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004ab14abbe0ca3469d2b5100dca5d16
+      internalID: 2039088133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 657
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd55d056f015a3b4e8cc03a669bd3eed
+      internalID: -1600741424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 657
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b766d828ff349c543868090dc80472d6
+      internalID: -1366151445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 657
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c527f3443fd4d7846b04095d596d5b63
+      internalID: -365977164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 657
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44c6bb6825f82b459e5281f1ad4178b
+      internalID: 1998428407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 657
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2b0bb816ae26a4ebbbe963118fce82
+      internalID: -665484591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 657
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90adcc604ce24d54bb5512f4fb9c85e5
+      internalID: -2116506575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 657
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a65978bb32ea684794b0e3f3c5fec20
+      internalID: -1796832947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_62
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 657
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87b1626037cfdc4eab57dc91c03f371
+      internalID: 1665750433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 657
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94da4852a4e2a0340838d1dafa115413
+      internalID: 1479119096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_64
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 657
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc72c505da2d86c43b4b4124bfd0e371
+      internalID: -2022436146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5b6f760731f0b459d0bf6222bebf35
+      internalID: 268754041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c82280fdd8513741979a2415fd68156
+      internalID: -760327491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8336f7993354f0c4a853b5a69ee0a997
+      internalID: -1828401464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a620f8745292f79489bc683992a820a3
+      internalID: -1900642546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31969e5ed6903c5489865a2731651efa
+      internalID: -69916079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce43d6b0bee8b64fbbbafad0a2a5f6a
+      internalID: -1604891036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066fc964c0bc24b43b54de667471fa2f
+      internalID: -1578151228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476bce5b389499044aa6ff13d1723f9e
+      internalID: 502631950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e612403ea2554e458172787286f450a
+      internalID: -1412828849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd376c9bf2fff542862967177519d6b
+      internalID: -391466361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f910347d7edf443b3449a6c77b5487
+      internalID: 829858740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927cd61c236d5f944b06f7bad683be6f
+      internalID: 51730670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d8d79be5ca502439d638ae90cc1d2f
+      internalID: 1481841318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017dbfbef10096242bbec999af4276e4
+      internalID: 896408967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f57980424b60e46b7db7943a941e74
+      internalID: -322446807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_80
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc32729eb3e8e54cab8e73e1a12634a
+      internalID: 207403813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1362f1450f13844aabf7926f6e37b03
+      internalID: -1698810974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d748967ce68e44ea05cac540d27c20
+      internalID: -1313984379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fa5d3fdc43bbd499445551f030e98e
+      internalID: 1823711235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503c7006aabcbce499e9652d10be10ec
+      internalID: 1145046527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314fa2a9edb6c0e4ab96aed05acd32f6
+      internalID: 507887814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc931b701d771447b874c90d6674b8b
+      internalID: 775497266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30a59299e12e0f4ea6328a9fb616500
+      internalID: -1905454346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d0ac765e7511b4bbdc01c36a53d158
+      internalID: 2000648167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef33bc63ea141c747bf9d2ac1e611ada
+      internalID: -1547337230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d9759a0e38b83478f1a344b77cc8d9
+      internalID: -1167566035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_91
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a679fa7967718241ae1d50096573f6e
+      internalID: 630244956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a2c2a2da35d9f4f88e4b0ab4c740bc
+      internalID: -1857048283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_93
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e8ce1565538034eafb36c39578b79d
+      internalID: 1776835772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_94
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7cbd01d0b134445af8c45278a9bd54
+      internalID: 982979336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedebe8eb0c9e3b44b44b3e5dc98eb98
+      internalID: 162038014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_96
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 625
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14befa904b40c504587166a5f448611f
+      internalID: 864398063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15493e88f1c7bb448af91dd0a821df7
+      internalID: -1401683757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b8f1990fcc01b4a82bdde7c7d5b06a
+      internalID: 290262731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8e8a262c0ba014b9fe4d332c4cc132
+      internalID: 1664123555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eedc65a530c434f8e793ade4e4f616
+      internalID: 516392895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45faff42802af745b234a94f33b86c5
+      internalID: 2063571347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f47573e790b334cb263392bf2bcfef
+      internalID: 1251049536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe92f383f51dcf4c9f78f6b0f8d843b
+      internalID: 645215388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1419223e5a5ed8409a94c68a42383d0
+      internalID: -557205083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4ee9a406cb7314d863761f731bdfa3
+      internalID: -1911434532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a649faf34ce110b4681c1417f5c4e01c
+      internalID: -757890665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45219aecdbbedbc4c9425da966c5523c
+      internalID: 1462181763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511752bca31126c48a56f2759b4aea21
+      internalID: -549128734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6addf90b1cce94478aed0d2b338508c
+      internalID: -1989964745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_110
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a99d08aa0ce414d99faddff5d7c01e
+      internalID: -1753460741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23f7783a65f3844c9a46cc0fe0e7ac6
+      internalID: -262100683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_112
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2de569e8cbb864da59718009457250
+      internalID: -508292665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 609
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94264a5519cf37143bf9d88c85a0f9e3
+      internalID: -1536315805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_114
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250c9db75b1d1284387e4ca9d7fba541
+      internalID: -1078839123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_115
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce9323e7ea8dc34fb19fc04cae27871
+      internalID: -1085179563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_116
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bcf6bac1e770c4087c812460f5efc4
+      internalID: -1981704036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_117
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8a82dc5ef304447895b3ea9ee9bad2
+      internalID: 1824592649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_118
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d19b7e010e127a44b5443c69f04ca6d
+      internalID: 277356068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c5703e7e11cf342a4c83853c702323
+      internalID: 1769875917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_120
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a09dddbbd1e4e64dac5ca82e5061e5c
+      internalID: -544321268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dfebd7d25c3684a919977677cf1994
+      internalID: -394516500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b5b26bc186b8548b236972e8650b0d
+      internalID: 1499408296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_123
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fb25f2e740b004aba7ec6c6fd101cc
+      internalID: -1772438995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_124
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742aee6e34599a848abd1f271eab4f88
+      internalID: -1847177615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db3abc43550f9845abf7e8c24d1bd38
+      internalID: 964369886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7228a4ee6251344783856a133d4ddf5
+      internalID: 1167919317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ed583f067b4fa4589d727d5ba0a8ac
+      internalID: 1522718033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7753b8533e1681549b72d18306e8a376
+      internalID: -66402851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_129
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8762e6405a98b194d9522de2c5d80168
+      internalID: 1193138920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClassicHouse2_130
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbba23378df1a345849cf6c2d6096b5
+      internalID: 1668448313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ClassicHouse2_0: -723224804
+      ClassicHouse2_109: -1989964745
+      ClassicHouse2_12: 1546244529
+      ClassicHouse2_1: -1185447885
+      ClassicHouse2_3: -1078451836
+      ClassicHouse2_102: 1251049536
+      ClassicHouse2_63: 1479119096
+      ClassicHouse2_22: -884310419
+      ClassicHouse2_70: -1604891036
+      ClassicHouse2_19: 379734067
+      ClassicHouse2_120: -544321268
+      ClassicHouse2_20: 297642832
+      ClassicHouse2_25: -803331124
+      ClassicHouse2_126: 1167919317
+      ClassicHouse2_124: -1847177615
+      ClassicHouse2_64: -2022436146
+      ClassicHouse2_101: 2063571347
+      ClassicHouse2_31: 305171608
+      ClassicHouse2_91: 630244956
+      ClassicHouse2_77: 1481841318
+      ClassicHouse2_89: -1547337230
+      ClassicHouse2_90: -1167566035
+      ClassicHouse2_130: 1668448313
+      ClassicHouse2_55: -1600741424
+      ClassicHouse2_61: -1796832947
+      ClassicHouse2_106: -757890665
+      ClassicHouse2_121: -394516500
+      ClassicHouse2_96: 864398063
+      ClassicHouse2_50: -907211093
+      ClassicHouse2_104: -557205083
+      ClassicHouse2_108: -549128734
+      ClassicHouse2_13: -2079699321
+      ClassicHouse2_18: -1750246620
+      ClassicHouse2_122: 1499408296
+      ClassicHouse2_23: 2122635452
+      ClassicHouse2_11: 154325842
+      ClassicHouse2_56: -1366151445
+      ClassicHouse2_42: 685262420
+      ClassicHouse2_32: 1994784742
+      ClassicHouse2_17: 1671431603
+      ClassicHouse2_71: -1578151228
+      ClassicHouse2_68: -1900642546
+      ClassicHouse2_6: -1812348583
+      ClassicHouse2_14: -555223334
+      ClassicHouse2_54: 2039088133
+      ClassicHouse2_129: 1193138920
+      ClassicHouse2_21: 341451766
+      ClassicHouse2_97: -1401683757
+      ClassicHouse2_44: 652704515
+      ClassicHouse2_69: -69916079
+      ClassicHouse2_46: -648083782
+      ClassicHouse2_98: 290262731
+      ClassicHouse2_79: -322446807
+      ClassicHouse2_67: -1828401464
+      ClassicHouse2_82: -1313984379
+      ClassicHouse2_87: -1905454346
+      ClassicHouse2_111: -262100683
+      ClassicHouse2_125: 964369886
+      ClassicHouse2_4: 689147756
+      ClassicHouse2_88: 2000648167
+      ClassicHouse2_41: -990253080
+      ClassicHouse2_128: -66402851
+      ClassicHouse2_118: 277356068
+      ClassicHouse2_99: 1664123555
+      ClassicHouse2_8: -1199634768
+      ClassicHouse2_75: 829858740
+      ClassicHouse2_35: 1182552176
+      ClassicHouse2_49: 601637466
+      ClassicHouse2_53: -1774738037
+      ClassicHouse2_95: 162038014
+      ClassicHouse2_47: -1271371252
+      ClassicHouse2_117: 1824592649
+      ClassicHouse2_73: -1412828849
+      ClassicHouse2_10: -187223878
+      ClassicHouse2_45: -185877804
+      ClassicHouse2_5: 922456835
+      ClassicHouse2_51: -200244726
+      ClassicHouse2_16: -1756358226
+      ClassicHouse2_29: 1166024349
+      ClassicHouse2_110: -1753460741
+      ClassicHouse2_30: 1077720025
+      ClassicHouse2_84: 1145046527
+      ClassicHouse2_60: -2116506575
+      ClassicHouse2_48: -2089953211
+      ClassicHouse2_81: -1698810974
+      ClassicHouse2_2: -131871956
+      ClassicHouse2_116: -1981704036
+      ClassicHouse2_105: -1911434532
+      ClassicHouse2_39: -390232272
+      ClassicHouse2_119: 1769875917
+      ClassicHouse2_127: 1522718033
+      ClassicHouse2_9: 1882639139
+      ClassicHouse2_113: -1536315805
+      ClassicHouse2_76: 51730670
+      ClassicHouse2_103: 645215388
+      ClassicHouse2_15: 1462852718
+      ClassicHouse2_34: 1845948677
+      ClassicHouse2_85: 507887814
+      ClassicHouse2_62: 1665750433
+      ClassicHouse2_40: 900476060
+      ClassicHouse2_86: 775497266
+      ClassicHouse2_27: -287413873
+      ClassicHouse2_52: -2059893355
+      ClassicHouse2_114: -1078839123
+      ClassicHouse2_80: 207403813
+      ClassicHouse2_112: -508292665
+      ClassicHouse2_33: 138605969
+      ClassicHouse2_123: -1772438995
+      ClassicHouse2_24: -993198541
+      ClassicHouse2_7: -1402718853
+      ClassicHouse2_58: 1998428407
+      ClassicHouse2_37: 1323983463
+      ClassicHouse2_78: 896408967
+      ClassicHouse2_57: -365977164
+      ClassicHouse2_107: 1462181763
+      ClassicHouse2_26: 1189469630
+      ClassicHouse2_28: 1226560422
+      ClassicHouse2_92: -1857048283
+      ClassicHouse2_93: 1776835772
+      ClassicHouse2_115: -1085179563
+      ClassicHouse2_74: -391466361
+      ClassicHouse2_59: -665484591
+      ClassicHouse2_94: 982979336
+      ClassicHouse2_43: 715928279
+      ClassicHouse2_66: -760327491
+      ClassicHouse2_38: -1776513284
+      ClassicHouse2_36: -943828682
+      ClassicHouse2_72: 502631950
+      ClassicHouse2_83: 1823711235
+      ClassicHouse2_100: 516392895
+      ClassicHouse2_65: 268754041
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

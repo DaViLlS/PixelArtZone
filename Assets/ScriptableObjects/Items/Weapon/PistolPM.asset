@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afbae92a89d146748adcc71dca39ebaf, type: 3}
+  m_Name: PistolPM
+  m_EditorClassIdentifier: 
+  itemName: "\u041F\u041C"
+  icon: {fileID: 1803287476, guid: a2a7b188b5984ea40ad8e22ccc7e3090, type: 3}
+  iconUI: {fileID: 1547491346, guid: ce3cf325e604c66409ff4376b6172b7e, type: 3}
+  material: {fileID: 2100000, guid: 455f400781e15364f89c715c835c73db, type: 2}
+  isStackable: 0
+  weaponType: Pistol
+  damage: 5
+  bulletsCapacity: 8
+  bulletPrefab: {fileID: 1338877114467787659, guid: 4902e1b4fadf4b7438ec1b8c3afd67c1, type: 3}
+  shootSound: {fileID: 8300000, guid: 5fdcc8aef85d0a84ca36cadb36b64162, type: 3}
+  reloadSound: {fileID: 8300000, guid: 45c5f55b3ad9c7d459b39a235c6c1387, type: 3}
